@@ -1,0 +1,4 @@
+mozillacoin
+===========
+
+Cryptocurrency coin
